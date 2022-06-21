@@ -1,0 +1,16 @@
+
+
+body {
+    background-color: aquamarine;
+}
+
+button {
+    background-color: black;
+    color: aquamarine;
+    font-size: small;
+}
+
+.c {
+    width: 45%;
+    height: 45%;
+}
