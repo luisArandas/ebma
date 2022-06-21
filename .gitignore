@@ -5,3 +5,7 @@ venv
 ./node_modules
 /node_modules
 node_modules
+
+./app-darwin-x64
+/app-darwin-x64
+app-darwin-x64
