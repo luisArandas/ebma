@@ -9,3 +9,7 @@ node_modules
 ./app-darwin-x64
 /app-darwin-x64
 app-darwin-x64
+
+./app-win32-x64
+/app-win32-x64
+app-win32-x64

@@ -12,4 +12,5 @@ npm start
 # npx or npm exec
 # npx electron-packager <sourcedir> <appname> --platform=<platform> --arch=<arch> [optional flags...] 
 # can use --all
+
 npx electron-packager . app
