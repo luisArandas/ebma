@@ -1,2 +1,2 @@
 # ebma
-electron-based multimedia application
+multimedia templates ready for packaging
